@@ -1,0 +1,14 @@
+---
+id: e697a9b5-f9f8-4803-ab26-e939147c7432
+title: Divergent Pathfinders
+desc: ''
+updated: 1618409455001
+created: 1618408493870
+---
+## Welcome to the Divergent Pathfinders community
+
+We're a group of people _doing good different_.
+
+These pages contain information about how you can join in with the community. For now, the best way to find out more is to [join us on Discord](https://discord.gg/vFWqz3PRzQ).
+
+You can also find the techie side of the project, like this website, on [our Github page](https://github.com/Divergent-Pathfinders).
