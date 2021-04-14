@@ -8,6 +8,7 @@ noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 site:
     siteUrl: www.divergentpathfinders.com
+    siteLastModified: true
     copyAssets: true
     siteHierarchies:
         - root
