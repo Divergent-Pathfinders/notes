@@ -7,7 +7,7 @@ useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 site:
-    siteUrl: www.divergentpathfinders.com
+    siteUrl: "https://www.divergentpathfinders.com"
     siteLastModified: true
     copyAssets: true
     siteHierarchies:
