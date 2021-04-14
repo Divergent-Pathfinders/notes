@@ -62,7 +62,7 @@
     }
   
     function initNavBar() {
-      return fetch("divergentpathfinders.com/nav.html").then(function (response) {
+      return fetch("www.divergentpathfinders.com/nav.html").then(function (response) {
         return response.text().then((content) => {
           replaceNav(content);
           return;
@@ -80,7 +80,7 @@
     function initSearch() {
       var request = new XMLHttpRequest();
       // TODO: CHECK IF THIS WORKS WITHOUT ABSOLUTE_URL
-      request.open("GET", "divergentpathfinders.com/assets/js/search-data.json", true);
+      request.open("GET", "www.divergentpathfinders.com/assets/js/search-data.json", true);
   
       request.onload = function () {
         if (request.status >= 200 && request.status < 400) {
@@ -514,7 +514,7 @@
       var cssFile = document.querySelector('[rel="stylesheet"]');
       cssFile.setAttribute(
         "href",
-        'divergentpathfinders.com/assets/css/just-the-docs-' + theme + ".css"
+        'www.divergentpathfinders.com/assets/css/just-the-docs-' + theme + ".css"
       );
     };
   
