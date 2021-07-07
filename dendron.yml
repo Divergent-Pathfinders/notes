@@ -7,7 +7,7 @@ useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 site:
-    siteUrl: "https://www.divergentpathfinders.com"
+    siteUrl: 'https://www.divergentpathfinders.com'
     siteLastModified: true
     copyAssets: true
     siteHierarchies:
@@ -21,3 +21,10 @@ site:
         payload:
             - vault
 initializeRemoteVaults: true
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+dendronVersion: 0.49.0
