@@ -20,8 +20,9 @@ site:
         action: useVault
         payload:
             - vault
-    siteFaviconPath: site/assets/images/favicon.png
-    
+    siteFaviconPath: build/site/assets/images/favicon.png
+    logo: build/site/assets/images/logo-256.png
+
 initializeRemoteVaults: true
 journal:
     dailyDomain: daily
