@@ -7,7 +7,7 @@ useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 site:
-    siteUrl: 'https://divergentpathfinders.com'
+    siteUrl: 'https://www.divergentpathfinders.com'
     siteLastModified: true
     copyAssets: true
     siteHierarchies:
@@ -20,8 +20,8 @@ site:
         action: useVault
         payload:
             - vault
-    siteFaviconPath: build/site/assets/images/favicon.png
-    logo: build/site/assets/images/logo-256.png
+    siteFaviconPath: vault/assets/images/favicon.png
+    logo: vault/assets/images/logo-256.png
 
 initializeRemoteVaults: true
 journal:
