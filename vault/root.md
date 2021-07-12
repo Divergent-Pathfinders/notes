@@ -7,7 +7,7 @@ created: 1618408493870
 ---
 ## Welcome to Divergent Pathfinders
 
-We're a group of people _doing good different_ and the emerging edges. You'll find information about the community, what we're up to, and how you can join in. You'll also find a growing toolkit for doing exploratory, boundary-blurring work that engages with big, tangled, messy problems.
+We're a group of people _doing good different_ at the emerging edges. You'll find information about the community, what we're up to, and how you can join in. You'll also find a growing toolkit for doing exploratory, boundary-blurring work that engages with big, tangled, messy problems.
 
 These pages contain information about how you can join in with the community. For now, the best way to find out more is to [join us on Discord](https://discord.gg/vFWqz3PRzQ).
 
